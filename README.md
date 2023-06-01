@@ -44,7 +44,7 @@ The API provides the following API routes:
 
 ## 3. Database Schema (E-R Diagram)
 
-Please refer to the E-R Diagram in the `er-diagram.png` file in the repository. The diagram depicts the relationships between the entities involved in the MVP Wallet Service.
+Please click [here](https://erd.dbdesigner.net/designer/schema/1685494759-demo-credit) to see the E-R diagram for the API. The diagram depicts the relationships between the entities involved in the MVP Wallet Service.
 
 ## 4. Usage and Documentation
 
